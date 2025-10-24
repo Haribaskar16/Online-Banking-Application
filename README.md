@@ -48,8 +48,7 @@ static final String DB_PASSWORD = "your_password";
 
 * Add MySQL JDBC Driver
 Download and add to classpath:
-
-* Download MySQL Connector/J from MySQL official website
+Download MySQL Connector/J from MySQL official website
 Add the .jar file to your project classpath
 
 ## When you run the application, you'll see a menu:
